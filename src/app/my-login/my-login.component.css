@@ -1,0 +1,11 @@
+.ico{
+    height: 50px;
+}
+
+.btn-primary{
+    background: #393E46 !important;
+    border-color: #EEEE !important;
+}
+.color{
+    background: linear-gradient(to right bottom,#222831 -45%,#32E0C4 146%);
+}

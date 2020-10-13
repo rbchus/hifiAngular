@@ -1,0 +1,14 @@
+.playVideo{
+    width: 80%;
+     height: 315px; 
+    padding: 25px 0 25px 0;
+}
+
+
+
+.contenedorVideoPrincipal{
+    background-image: url(../../assets/img/bgComic.jpg);
+    display: flex;
+    justify-content: center;
+    
+}

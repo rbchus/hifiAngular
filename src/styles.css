@@ -1,1 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
+.todoFondo{
+    background: linear-gradient(to right bottom,#222831 -45%,#32E0C4 146%);
+}
